@@ -1,2 +1,1 @@
-# Visualizing-Public-API-Whether-Data
-Visualizing whether Data whit Public API 
+Visualisation of data with public API 
